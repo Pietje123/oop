@@ -26,6 +26,7 @@ public class Deck {
 	
 	public ArrayList<Card> getCurrentlyInDeck(){
 		return this.currentlyInDeck;
+		System.out.println("Change");
 	}
 	
 	public Card drawCard() {

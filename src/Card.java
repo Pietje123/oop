@@ -3,7 +3,8 @@ public class Card {
 	private int number;
 	private String Suit;
 	private int points;
-	
+
+	// Comment change
 	public Card(int num, String suit, int point) {
 		this.number = num;
 		this.Suit = suit;
