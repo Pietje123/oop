@@ -17,6 +17,7 @@ public class Deck {
 		}
 		this.fullDeck = newDeck;
 		shuffleDeck();
+		// 123
 	}	
 	
 	public void shuffleDeck() {
@@ -26,7 +27,7 @@ public class Deck {
 	
 	public ArrayList<Card> getCurrentlyInDeck(){
 		return this.currentlyInDeck;
-		System.out.println("Change");
+		// Hello
 	}
 	
 	public Card drawCard() {
