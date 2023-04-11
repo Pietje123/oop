@@ -7,7 +7,7 @@ import java.util.Collections;
 
 public class Hoofd {
 	public static void main(String[] args) {
-		
+KAPOT		
 		System.out.println("How many players?");
 		Scanner scan = new Scanner(System.in);
 
